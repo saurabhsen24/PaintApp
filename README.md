@@ -17,7 +17,7 @@
 
 * Save the images in our mobile.
 
-* We can select the thickness of the images if needed.
+* We can select the thickness of the brush if needed.
 
 * We can select various colors to draw
 
